@@ -1,16 +1,16 @@
 game.StarterGui:SetCore(
 	"SendNotification",
 	{
-		Title = "curzs aimlock",
-		Text = "curzs aimlock",
+		Title = "best aim",
+		Text = "easy aim",
 	}
 )
 wait(1)
 game.StarterGui:SetCore(
 	"SendNotification",
 	{
-		Title = "curzs aimlock",
-		Text = "curzs aimlock loading",
+		Title = "w aim",
+		Text = "best aim loading",
 	}
 )
  
